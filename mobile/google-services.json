@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954278739749",
+    "project_id": "komsum-2f4d0",
+    "storage_bucket": "komsum-2f4d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954278739749:android:33b2c73e850c31746664cc",
+        "android_client_info": {
+          "package_name": "com.zeynepyilmaz.Komum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWvgrZ38YLRzo8fBhhYX8jZHFuNWengy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

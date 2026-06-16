@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Komşum",
+    "slug": "Komum",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/komsumLogo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/komsumLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zeynepyilmaz.Komum",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/komsumLogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.zeynepyilmaz.Komum",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b8bcdd38-06d7-4d1f-a9c7-f388e847d3cb"
+      }
+    },
+    "owner": "zeynep-yilmaz"
+  }
+}
